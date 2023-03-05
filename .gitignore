@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.env
+postgresql.session.sql
+prisma/migrations/20230305163637_post/migration.sql
+prisma/migrations/20230305174650_users_and_post_models/migration.sql
